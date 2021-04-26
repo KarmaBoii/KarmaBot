@@ -11,7 +11,7 @@
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Karmaboii/KarmaBot)
 ## GET STRING SESSION FROM REPL RUN 
 ### The Easiest Way
-[![Repl.it](https://img.shields.io/badge/STRING%20SESSION-Make%20Online-brightgreen)](https://Karmaboii.karmabot.repl.run)
+[![Repl.it](https://img.shields.io/badge/run-string__session.py-red?style=for-the-badge&logo=repl.it)](https://replit.com/@tnmay/KarmaBot)
 ...With The Help Of This U can Skip Termux Part And Make String Sessions Easily
 
 ### The Normal Way
